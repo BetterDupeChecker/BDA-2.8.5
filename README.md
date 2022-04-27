@@ -15,5 +15,5 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 # Hotkeys:
 (Configurable in Controls Menu)
 
-/nbt on - Activates the dupe checker
-/nbt off - Deactivates the dupe checker
+/bda on - Activates the dupe checker
+/bda off - Deactivates the dupe checker
